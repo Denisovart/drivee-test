@@ -1,4 +1,4 @@
-##Сделал в виде SaaS
+## Сделал в виде SaaS
 
 Сам алгоритм в виде чистого JS файла driveeTest.js
 
@@ -8,9 +8,10 @@ First, run the development server:
 
 ```bash
 
+#install packages
 npm install
 
-#Запуск БД PocketBase 
+#PocketBase 
 ./pocketbase serve
 
 #adminEmail: admin@admin.admin
